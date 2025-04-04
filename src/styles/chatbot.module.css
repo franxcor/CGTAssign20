@@ -1,0 +1,37 @@
+.content {
+    background-color: #f5e9e2;
+}
+.messageHistory {
+    background-color: #f5e9e2;
+    font-family: 'Courier New', Courier, monospace;
+    width: 1000px;
+    height: 600px;
+    padding-top: 10px;
+    overflow-y: auto;
+}
+
+.textBox {
+    border: none;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: -60px;
+    margin-left: -460px;
+    width: 900px;
+    padding-left: 10px;
+    position: absolute;
+    background-color: white;
+    color: black;
+}
+
+.button {
+    position: absolute;
+    background-color: white;
+    color: #773344;
+    font-size: 20px;
+    padding: 0px;
+    margin-left: 425px;
+    padding-top: 3px;
+    border: none;
+    font-weight: bolder;
+    margin-top: -52px;
+}

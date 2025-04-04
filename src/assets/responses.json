@@ -1,0 +1,36 @@
+{
+    "greetings" : {
+        "1" : "Why hello, User!",
+        "2" : "Howdy!",
+        "3" : "Hello to you too!",
+        "4" : "Hey there, User!",
+        "5" : "Hi!"
+    },
+    "unknown" : {
+        "1" : "I'm sorry I can't quite understand that.",
+        "2" : "Could you try rephrasing?",
+        "3" : "Please try again later.",
+        "4" : "Hmmm, I'm not qute sure what you are trying to say.",
+        "5" : "Huh?"
+    },
+    "farewells" : {
+        "1" : "G'Bye!",
+        "2" : "Thank you for talking to me today, User. Goodbye!",
+        "3" : "Bye Bye for now.",
+        "4" : "I hope I answered all your questions today.",
+        "5" : "Goodbye."
+    },
+    "joke" : {
+        "1" : "you.",
+        "2" : "ur mom",
+        "3" : "look in a mirror for a good joke",
+        "4" : "when's your birthday again?",
+        "5" : "I don't know any sorry!"
+    },
+    "empty" : {
+        "1" : "I'm sorry I can't seem to respond to this.",
+        "2" : "Please enter a message with words!",
+        "3" : "d̵̢̰̆̐̍͗f̸̦̲̞̃͆_̸̡͍̦͎͎̥͇͕̱͓ͣͥ̋̍̊̐͛ͯ̀̚͜͟͞ͅͅ_̩͊̉͗̍̈́͆̄͗ͥ̚j̢̨̘̪̻̯͖̄ͫ̈́̒͆̌ͧ̈́͒ͦ_̴̷̡͙̦͚͉̅̐a̸̞͕̳̬̖͒̆ͬ̔̃̍ͬ̿ͧw̸̶̸̨̨̥̯̘̖̪̤͙̱̬̥̠͉̱͈̍̋̄̑̀̆̔͒̈́̒͑͘̕͟͢͡͠͞;̴̵̸̡̪̮̤̗̹͍͔̺̽͛ͭ͑ͦ̔̓͋͊̍ͨẹ̡ͭ̋_̷̨̧̲̫̳̩͍̣͎͙̻͈̓͐̒̈́̋̍ͭͯ̅̃͗͘͜͠ͅi̢̤͔ͪ̑_̹̤̘̪͖͎͉ͪ͋ͬ̊͋̀͋̚f̷̴̨̡̩̝̣̘̼̭̹ͨ̎̊ͥ̈̐̂̋͛ͬ͗ͬ̏̒̕_̻̻͖̖̘ͨ̇ͪ̂̾̋͆͜͞ǰ̸̸̼͔̳̤͇̪̙̬̬̰̼̥̲̙͕̙̗̮̓ͮͦ͛̀ͭ̏̉̎ͯͥͥ̈ͭ̄ͪͭ͘̕͜͟͡;̷̷̢̯̰͕̘̰ͨ̈͊̒͒̋̂͠w̷̥̠̻̹͈̗̬̭̹ͯ̇̿̎̉́̍̇ͫ̏̈́ͫͭ̿̂̂̕͞͠_̴̩̞̥̭ͪ̔̚̚͟͞ͅi̷̷̶̧̜͚̦̹̼͎̲̣̳̜̝̟͓͈̟̻̯̠͛́ͦ̋̅ͨ̅̔̄̑̎ͯͧ͘͘ͅͅ_͌̊͟ẹ̡̱̯̅͗ͨ̇_̛̥̣̰̫̤̻͚̣͒ͧ͊͗̿ͫͤ̀̾_̴̱͠j̧̩͊̀͟f̷̼̬̊͗̆ͩ͗͋a̵̻̪̙̩̘̱̩̗ͭ͐̿ͭ̍ͤ́̓ͧ͗ͅ__̗̝͆̃̆̈͒̽̒͛ẅ̶̶̡̡̧̩̭̯̬͖͎̝̭̺̱̮̗͍̖́́ͮ̾̋̄̾͒̽̇͆̉ͪͣͩ͌ͤ́̈́́ͤͪ̚̚̚͟͝",
+        "4" : "aight."
+    }
+}
